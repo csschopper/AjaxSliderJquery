@@ -1,4 +1,4 @@
- var xhr=new Array;
+var xhr=new Array;
  var maxlimit=new Array;
  var total_margin=0;
 (function($){
